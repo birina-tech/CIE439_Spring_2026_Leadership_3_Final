@@ -6,6 +6,7 @@
 </div>
 
 
+
 This is an analysis of the data for the final leadership survey from 103 respondents, collected in the end of the course to establish impacts of course activities (weekly group assignments and team project).
 
 Before the education begins, students generally feel most confident in collaborative tasks and least confident in formal leadership and innovation-specific roles. Let's see how they feel in the middle of the course.
