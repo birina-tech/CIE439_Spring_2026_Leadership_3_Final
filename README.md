@@ -1,6 +1,9 @@
 # Final (end of the semester) Leadership Competency Analysis
 
-            “Engineering leadership consists of capabilities and values that transform technical people from individual contributors into those who can lead teams to deliver a complex multi-disciplinary product” © Gordon-MIT Engineering Leadership Programm.
+<div align="right">
+  <i>"Engineering leadership consists of capabilities and values that transform technical people from individual contributors into those who can lead teams to deliver a complex multi-disciplinary product."</i><br>
+  <b>— Gordon-MIT Engineering Leadership Program</b>
+</div>
 
 
 This is an analysis of the data for the final leadership survey from 103 respondents, collected in the end of the course to establish impacts of course activities (weekly group assignments and team project).
@@ -16,7 +19,7 @@ This study evaluates leadership competencies among engineering students (mostly 
 Participants were asked to respond to the following prompt:
 
 
-            "Indicate how well your previous education prepared you for your professional career and enhanced your ability relative to each of the following skills using a 5-point Likert scale: (1) Poorly, (2) Fairly, (3) Neither poorly nor well, (4) Very Well, and (5) Excellently."
+*Indicate how well your previous education prepared you for your professional career and enhanced your ability relative to each of the following skills using a 5-point Likert scale: (1) Poorly, (2) Fairly, (3) Neither poorly nor well, (4) Very Well, and (5) Excellently.*
 
 
 **Evaluated Leadership Dimensions**
