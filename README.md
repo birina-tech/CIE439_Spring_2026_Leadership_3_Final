@@ -6,10 +6,18 @@
 </div>
 
 
+**Cohort:** Civil Engineering student, mostly juniors, *Spring 2026*.
 
-This is an analysis of the data for the final leadership survey from 103 respondents, collected in the end of the course to establish impacts of course activities (weekly group assignments and team project).
+**Course:** Introduction into Transportation System Analysis (for most students this course is the first exposure to the transportation engineering).
 
-Before the education begins, students generally feel most confident in collaborative tasks and least confident in formal leadership and innovation-specific roles. Let's see how they feel in the middle of the course.
+
+This is an analysis of the data for the final leadership survey from 103 respondents, collected in the end of the course to establish impacts of course activities (weekly group assignments and team project), and how these responses relate to initial and mid semester responses.
+
+[Link to the initial survey responses analysis](https://birina-tech.github.io/CIE439_Spring_2026_Leadership_1/)
+
+[Link to the mid-semester survey responses analysis](https://birina-tech.github.io/CIE439_Spring_2026_Leadership_2-mid_semester-/)
+
+
 
 ## Methodology
 
